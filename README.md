@@ -1,0 +1,1 @@
+The script uses enrichment analysis and annotation database R packages, including clusterProfiler, org.Hs.eg.db, AnnotationDbi, and GO.db, to retrieve the genes corresponding to a given gene set based on its GO ID.
